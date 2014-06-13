@@ -118,7 +118,7 @@ allprojects {
     group = 'org.gradle'
 
     repositories {
-        maven { url 'http://localhost:8081/artifactory/gradle-libs' }
+        maven { url 'http://10.71.6.217:8081/artifactory/gradle-libs' }
     }
 }
 
